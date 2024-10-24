@@ -1,0 +1,2 @@
+# minkkoticky
+My solidity projects
